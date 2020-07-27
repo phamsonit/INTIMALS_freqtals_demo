@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<matches>
+  <match PatternID="1" FullName="/Users/user/Working/INTIMALS/softs/tree-miner/input-ASTs/sample_git_data/src/builder/TableDirector.java">
+    <node ID="336" Name="?_root" />
+    <node ID="696" Name="?_visited" />
+    <node ID="692" Name="?_visited" />
+    <node ID="695" Name="?_visited" />
+    <node ID="401" Name="?_visited" />
+    <node ID="579" Name="?_visited" />
+    <node ID="693" Name="?_visited" />
+    <node ID="473" Name="?_visited" />
+    <node ID="576" Name="?_visited" />
+    <node ID="575" Name="?_visited" />
+    <node ID="572" Name="?_visited" />
+    <node ID="578" Name="?_visited" />
+  </match>
+  <match PatternID="1" FullName="/Users/user/Working/INTIMALS/softs/tree-miner/input-ASTs/sample_git_data/src/builder/TableDirector.java">
+    <node ID="354" Name="?_root" />
+    <node ID="608" Name="?_visited" />
+    <node ID="421" Name="?_visited" />
+    <node ID="604" Name="?_visited" />
+    <node ID="610" Name="?_visited" />
+    <node ID="719" Name="?_visited" />
+    <node ID="717" Name="?_visited" />
+    <node ID="493" Name="?_visited" />
+    <node ID="716" Name="?_visited" />
+    <node ID="720" Name="?_visited" />
+    <node ID="611" Name="?_visited" />
+    <node ID="607" Name="?_visited" />
+  </match>
+  <match PatternID="1" FullName="/Users/user/Working/INTIMALS/softs/tree-miner/input-ASTs/sample_git_data/src/builder/TableDirector.java">
+    <node ID="345" Name="?_root" />
+    <node ID="594" Name="?_visited" />
+    <node ID="705" Name="?_visited" />
+    <node ID="595" Name="?_visited" />
+    <node ID="411" Name="?_visited" />
+    <node ID="704" Name="?_visited" />
+    <node ID="592" Name="?_visited" />
+    <node ID="707" Name="?_visited" />
+    <node ID="708" Name="?_visited" />
+    <node ID="588" Name="?_visited" />
+    <node ID="483" Name="?_visited" />
+    <node ID="591" Name="?_visited" />
+  </match>
+  <match PatternID="2" FullName="/Users/user/Working/INTIMALS/softs/tree-miner/input-ASTs/sample_git_data/src/builder/TableBuilderDemo.java">
+    <node ID="344" Name="?_root" />
+    <node ID="552" Name="?_visited" />
+    <node ID="419" Name="?_visited" />
+    <node ID="551" Name="?_visited" />
+    <node ID="548" Name="?_visited" />
+    <node ID="549" Name="?_visited" />
+    <node ID="500" Name="?_visited" />
+  </match>
+  <match PatternID="2" FullName="/Users/user/Working/INTIMALS/softs/tree-miner/input-ASTs/sample_git_data/src/builder/TableBuilderDemo.java">
+    <node ID="282" Name="?_root" />
+    <node ID="443" Name="?_visited" />
+    <node ID="372" Name="?_visited" />
+    <node ID="522" Name="?_visited" />
+    <node ID="523" Name="?_visited" />
+    <node ID="526" Name="?_visited" />
+    <node ID="525" Name="?_visited" />
+  </match>
+  <match PatternID="2" FullName="/Users/user/Working/INTIMALS/softs/tree-miner/input-ASTs/sample_git_data/src/builder/TableDirector.java">
+    <node ID="393" Name="?_root" />
+    <node ID="567" Name="?_visited" />
+    <node ID="690" Name="?_visited" />
+    <node ID="471" Name="?_visited" />
+    <node ID="687" Name="?_visited" />
+    <node ID="689" Name="?_visited" />
+    <node ID="686" Name="?_visited" />
+  </match>
+  <match PatternID="4" FullName="/Users/user/Working/INTIMALS/softs/tree-miner/input-ASTs/sample_git_data/src/builder/TableDirector.java">
+    <node ID="338" Name="?_root" />
+    <node ID="701" Name="?_visited" />
+    <node ID="583" Name="?_visited" />
+    <node ID="702" Name="?_visited" />
+    <node ID="403" Name="?_visited" />
+    <node ID="699" Name="?_visited" />
+    <node ID="478" Name="?_visited" />
+    <node ID="698" Name="?_visited" />
+    <node ID="580" Name="?_visited" />
+    <node ID="586" Name="?_visited" />
+    <node ID="584" Name="?_visited" />
+    <node ID="587" Name="?_visited" />
+  </match>
+  <match PatternID="4" FullName="/Users/user/Working/INTIMALS/softs/tree-miner/input-ASTs/sample_git_data/src/builder/TableDirector.java">
+    <node ID="356" Name="?_root" />
+    <node ID="723" Name="?_visited" />
+    <node ID="616" Name="?_visited" />
+    <node ID="726" Name="?_visited" />
+    <node ID="722" Name="?_visited" />
+    <node ID="498" Name="?_visited" />
+    <node ID="615" Name="?_visited" />
+    <node ID="423" Name="?_visited" />
+    <node ID="619" Name="?_visited" />
+    <node ID="725" Name="?_visited" />
+    <node ID="618" Name="?_visited" />
+    <node ID="612" Name="?_visited" />
+  </match>
+  <match PatternID="4" FullName="/Users/user/Working/INTIMALS/softs/tree-miner/input-ASTs/sample_git_data/src/builder/TableDirector.java">
+    <node ID="347" Name="?_root" />
+    <node ID="711" Name="?_visited" />
+    <node ID="596" Name="?_visited" />
+    <node ID="713" Name="?_visited" />
+    <node ID="710" Name="?_visited" />
+    <node ID="600" Name="?_visited" />
+    <node ID="603" Name="?_visited" />
+    <node ID="413" Name="?_visited" />
+    <node ID="602" Name="?_visited" />
+    <node ID="714" Name="?_visited" />
+    <node ID="488" Name="?_visited" />
+    <node ID="599" Name="?_visited" />
+  </match>
+</matches>

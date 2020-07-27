@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<matches>
+  <match PatternID="2" FullName="/Users/user/Working/INTIMALS/softs/tree-miner/input-ASTs/sample_git_data/src/builder/TableBuilderDemo.java">
+    <node ID="311" Name="?_root" />
+    <node ID="481" Name="?_visited" />
+    <node ID="515" Name="?_visited" />
+    <node ID="514" Name="?_visited" />
+    <node ID="518" Name="?_visited" />
+    <node ID="517" Name="?_visited" />
+    <node ID="425" Name="?_visited" />
+  </match>
+  <match PatternID="5" FullName="/Users/user/Working/INTIMALS/softs/tree-miner/input-ASTs/sample_git_data/src/builder/JTable_Builder.java">
+    <node ID="248" Name="?_root" />
+    <node ID="459" Name="?_visited" />
+    <node ID="452" Name="?_visited" />
+    <node ID="438" Name="?_visited" />
+    <node ID="460" Name="?_visited" />
+    <node ID="462" Name="?_visited" />
+    <node ID="346" Name="?_visited" />
+    <node ID="513" Name="?_visited" />
+    <node ID="510" Name="?_visited" />
+    <node ID="447" Name="?_visited" />
+    <node ID="392" Name="?_visited" />
+    <node ID="445" Name="?_visited" />
+    <node ID="441" Name="?_visited" />
+    <node ID="442" Name="?_visited" />
+    <node ID="457" Name="?_visited" />
+    <node ID="456" Name="?_visited" />
+    <node ID="387" Name="?_visited" />
+    <node ID="463" Name="?_visited" />
+    <node ID="439" Name="?_visited" />
+    <node ID="448" Name="?_visited" />
+    <node ID="508" Name="?_visited" />
+    <node ID="511" Name="?_visited" />
+    <node ID="514" Name="?_visited" />
+    <node ID="453" Name="?_visited" />
+    <node ID="507" Name="?_visited" />
+    <node ID="344" Name="?_visited" />
+    <node ID="450" Name="?_visited" />
+    <node ID="444" Name="?_visited" />
+  </match>
+  <match PatternID="5" FullName="/Users/user/Working/INTIMALS/softs/tree-miner/input-ASTs/sample_git_data/src/builder/JTable_Builder.java">
+    <node ID="266" Name="?_root" />
+    <node ID="480" Name="?_visited" />
+    <node ID="471" Name="?_visited" />
+    <node ID="466" Name="?_visited" />
+    <node ID="477" Name="?_visited" />
+    <node ID="400" Name="?_visited" />
+    <node ID="474" Name="?_visited" />
+    <node ID="354" Name="?_visited" />
+    <node ID="479" Name="?_visited" />
+    <node ID="484" Name="?_visited" />
+    <node ID="490" Name="?_visited" />
+    <node ID="469" Name="?_visited" />
+    <node ID="472" Name="?_visited" />
+    <node ID="486" Name="?_visited" />
+    <node ID="483" Name="?_visited" />
+    <node ID="523" Name="?_visited" />
+    <node ID="516" Name="?_visited" />
+    <node ID="356" Name="?_visited" />
+    <node ID="519" Name="?_visited" />
+    <node ID="489" Name="?_visited" />
+    <node ID="522" Name="?_visited" />
+    <node ID="405" Name="?_visited" />
+    <node ID="475" Name="?_visited" />
+    <node ID="487" Name="?_visited" />
+    <node ID="520" Name="?_visited" />
+    <node ID="465" Name="?_visited" />
+    <node ID="468" Name="?_visited" />
+    <node ID="517" Name="?_visited" />
+  </match>
+</matches>
